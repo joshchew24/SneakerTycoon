@@ -26,27 +26,16 @@ generations.
 - As a user, I want to be able to sell my sneakers when it is profitable.
 - As a user, I want to be able to upgrade the amount of money I can earn per click.
 - As a user, I want a simulated marketplace with realistic listings.
-
-## Phase 2 User Stories
 - As a user, I want to be able to save my game progress to a file
 - As a user, I want to be able to load my game progress from a file
 
-## Phase 4: Task 2
-Type Hierarchy:
-CollectionMenu, DeveloperMenu, MarketplaceMenu, UpgradeMenu, and SneakerTycoonApp all extend the abstract Menu class, 
-and each have distinct implementations of displayMenu() and processMenuCommand().
-
-## Phase 4: Task 3
-Looking back on my design of this program, the first thing I notice is that there is a significant amount of coupling 
-between the GUI classes and the model classes. If I were to refactor the design of the project, here are some changes I 
-would make.
-- create a class in the model package representing the "game"
-- refactor the GUI to interact with the model solely through a single "game" object
-  - this removes the need for multiple associations from different GUI classes to Business and Sneaker
-
-Throughout the process of creating this program, we learned things in class that I realized could be applied to improve
-my project. 
+# TODOs:
 - refactor any "transactional" behaviour to throw exceptions instead of only returning booleans
 - implement proper bidirectional associations in the GUI classes 
   - OR apply the Observer design pattern, which is probably better
+- revamp GUI
+  - change fonts
+  - remove JSplitPane implementation from transaction panel
+  - change colors
+- endgame?
   
