@@ -1,0 +1,50 @@
+{
+    "upgrade cost": 100,
+    "business": {
+        "money": 9.9998912E8,
+        "name": "BOB'S CARTEL",
+        "collection": [
+            {
+                "purchased": 441.27985,
+                "type": "AIR_JORDAN_4"
+            },
+            {
+                "purchased": 2813.72,
+                "type": "SW_97_1"
+            },
+            {
+                "purchased": 301.7129,
+                "type": "AIR_JORDAN_1"
+            },
+            {
+                "purchased": 512.52734,
+                "type": "YEEZY_350"
+            },
+            {
+                "purchased": 508.1335,
+                "type": "AIR_JORDAN_1"
+            },
+            {
+                "purchased": 472.01474,
+                "type": "AIR_JORDAN_11"
+            },
+            {
+                "purchased": 446.80313,
+                "type": "YEEZY_350"
+            },
+            {
+                "purchased": 418.23102,
+                "type": "AIR_JORDAN_3"
+            },
+            {
+                "purchased": 3161.0447,
+                "type": "SW_97_1"
+            },
+            {
+                "purchased": 2155.6677,
+                "type": "SW_97_1"
+            }
+        ]
+    },
+    "click gain": 1
+}

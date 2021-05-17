@@ -1,0 +1,9 @@
+{
+    "upgrade cost": 100,
+    "business": {
+        "money": 0,
+        "name": "Random Test Business",
+        "collection": []
+    },
+    "click gain": 1
+}

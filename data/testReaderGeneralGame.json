@@ -1,0 +1,22 @@
+{
+  "upgrade cost": 300,
+  "business": {
+    "money": 67,
+    "name": "Chew's Shoes",
+    "collection": [
+      {
+        "purchased": 584.8893,
+        "type": "AIR_JORDAN_11"
+      },
+      {
+        "purchased": 115.15182,
+        "type": "AIR_FORCE_1"
+      },
+      {
+        "purchased": 158.89124,
+        "type": "AIR_MAX_90"
+      }
+    ]
+  },
+  "click gain": 3
+}

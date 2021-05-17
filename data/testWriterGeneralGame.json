@@ -1,0 +1,22 @@
+{
+    "upgrade cost": 500,
+    "business": {
+        "money": 1600,
+        "name": "Random Test Business",
+        "collection": [
+            {
+                "purchased": 3000,
+                "type": "CHICAGO_AIR_JORDAN_1"
+            },
+            {
+                "purchased": 160,
+                "type": "NMD_R1"
+            },
+            {
+                "purchased": 240,
+                "type": "AIR_MAX_97"
+            }
+        ]
+    },
+    "click gain": 5
+}

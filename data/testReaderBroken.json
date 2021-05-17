@@ -1,0 +1,18 @@
+{
+  "upgrade cost": 100,
+  "business": {
+    "money": 0,
+    "name": "Broken Business",
+    "collection": [
+      {
+        "purchased": 584.8893,
+        "type": "not a real shoe"
+      },
+      {
+        "purchased": 115.15182,
+        "type": "AIR_FORCE_1"
+      }
+    ]
+  },
+  "click gain": 1
+}
